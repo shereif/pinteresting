@@ -1,6 +1,5 @@
-# One Month Rails
+# Pintrest Clone
 
-This is the pintresting sample application for
-[*One Month Rails*][http://onemonthrails.com]
+Pintrest Clone
 
 by [Shereif Saleh]
